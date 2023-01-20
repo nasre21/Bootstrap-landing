@@ -1,0 +1,17 @@
+.nav-link {
+   font-style: italic; 
+   /* font-weight: 100;color: white; */
+}
+
+ .nav-link:hover{
+    background-color: rgb(206, 32, 104);
+    color: white;
+    /* font-style: italic;  */
+    border-radius: 0.5rem;
+ }
+ .bg-body-tertiary{
+    background-color: white !important;
+ }
+ .background-image {
+    background-image: url();
+ }
