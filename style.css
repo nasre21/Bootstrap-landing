@@ -1,5 +1,6 @@
 .nav-link {
-   font-style: italic; 
+   font-style: italic;
+   color: #857f80;
    /* font-weight: 100;color: white; */
 }
 
@@ -11,7 +12,18 @@
  }
  .bg-body-tertiary{
     background-color: white !important;
- }
- .background-image {
-    background-image: url();
- }
+ } 
+ .dopetrope-image {
+   background-color: #cce8f4;
+   background-image: url(./images/pic01.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   max-height:40rem;
+   padding: 12% 0; 
+   display: flex;
+   justify-content: center;
+}
+.dopetrope-image div{
+   background-color: black;
+}
