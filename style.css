@@ -31,5 +31,15 @@
    background-color:#D52349;
 }
 .tarjetas {
+   width: 100%;
    padding: 4rem 0rem 4rem 12rem;
+}
+.wrapper-image-tarjetas h4{
+
+   padding-top: 1rem;
+   
+}
+
+.buttones1 {
+   
 }
