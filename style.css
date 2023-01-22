@@ -26,7 +26,9 @@
 }
 .dopetrope-image div{
    background-color: black;
+
 }
+/* tarjetas */
 #buttn1 {
    background-color:#D52349;
 }
@@ -47,3 +49,19 @@
 
    width: 50%;
 }
+/* portfolio */
+.portfolio-container {
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+
+
+
+
+/* responsive de Tablet */
+
+
+
+/* responsive de movil */
