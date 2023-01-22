@@ -55,7 +55,9 @@
    grid-template-columns: 1fr 1fr 1fr;
 }
 
-
+.img-portfolio img{
+   width: 50%;
+}
 
 
 
