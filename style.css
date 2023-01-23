@@ -69,8 +69,12 @@
    color: dimgray;
 }
 
-
-
+/* the blog */
+.blog-container {
+   width: 84%;
+  padding-left: 18rem;
+  padding-bottom: 1rem;
+}
 
 /* responsive de Tablet */
 
