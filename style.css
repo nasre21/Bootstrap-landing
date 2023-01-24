@@ -68,7 +68,11 @@
    font-size: 0.9rem;
    color: dimgray;
 }
-
+.blog-container{
+    width: 80%;
+    padding-left: 16.5rem;
+    padding-bottom: 2rem;
+}
 
 
 
