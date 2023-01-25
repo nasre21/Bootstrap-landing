@@ -68,7 +68,11 @@
    font-size: 0.9rem;
    color: dimgray;
 }
-/* footer */
+.blog-container{
+    width: 80%;
+    padding-left: 16.5rem;
+    padding-bottom: 2rem;
+}/* footer */
 /* footer img{
    text-align: center;
    background-color: #D52349;
